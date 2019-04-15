@@ -1,5 +1,4 @@
 # Dummy Project
-## Dummy Project
-### Dummy Project
-#### Dummy Project
-Data Analysis
+## Image testing
+# Employee Attrition
+![image.png](images/HRTalent.png)
