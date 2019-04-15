@@ -1,7 +1,5 @@
 # Dummy Project
 ## Image testing
-# Employee Attrition
-![image.png](images/HRTalent.png)
 
 # PEOPLE ANALYTICS WITH ATTRITION PREDICTION
 ![image.png](images/HRTalent.png)
